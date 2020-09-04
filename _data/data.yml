@@ -3,169 +3,138 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Wish He
+    tagline: 6301 Shellmound Street, Emeryville
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: weixi@berkeley.edu
+    phone: (510) 409-7286
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    linkedin:
+    github:
+    telegram:
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
     languages:
+      - idiom: Mandarin Chinese
+        level: Native
+
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Cantonese
+        level: Fluent
+        
+      - idiom: Korean
+        level: Elementary
 
     interests:
-      - item: Climbing
+      - item: professional swimmer (15 years)
         link:
 
-      - item: Snowboarding
+      - item: pianist (10 years)
         link:
 
-      - item: Cooking
+      - item: flute (10 years)
+        link:
+        
+      - item: professional modelling
+        link:
+        
+      - item: fashion blogger
+        link:
+        
+      - item: professional golfer (12 years)
+        link:
+        
+      - item: professional tennis player (12 years)
+        link:
+        
+      - item: Miss World China region finalist (2018)
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
+#       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.A. Data Science – Business Administration
+      university: University of California, Berkeley
+      time: May 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Certifications: CFA Level 1| Candidate
+          - Relevant Coursework: Computational Structures in Data Science, Industrial and Commercial Data Systems, Business Analytics, Financial Engineering, Linear Algebra, Numerical Analysis, Probability Models
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    title: WORK EXPERIENCE
+    - role: Data Analyst
+      time: Mar. 2020 – Sep. 2020
+      company: Oigetit Fake News Filter, Sunnyvale, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Spearheaded the creation of new filtering features, implemented features in website backend and used Cross-Validation to test the Fake News filter system with 95% accuracy
+          - Utilized data analytics tools including SQL and Tableau to analyze and track performance of different social media platforms, improved total impressions and number of users by more than 30% over 3 months 
+          - Automated the visualization process of user behavior trend using Python Seaborn package, which improved efficiency by ~25% and cut cost by ~15%
+
+    - role: Data Analyst 
+      time: Dec. 2019 - Jan. 2020
+      company: Zhongtai International Asset Management Limited, Hong Kong, China
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Established an automated model to retrieve investment opportunities data using R ggplot2 package, performed an EDA, cleaned and imputed data using PCA; calculated and assigned a “big_growth” variable to 20 portfolio companies
+          - Performed classification using Naive Bayes, SVM, and Neural Network on “big_growth” companies, testing model performance by Cross-Validation and the best model achieved 0.95 (I am not sure) f1-score.
+          - Tuned each model, adjusted the parameters and optimized the performance, evaluated and compared models with AUC, Recall, and f1-score, and presented a suggested portfolio with model’s predicted revenue
+
+    - role: Audit Intern
+      time: Jun. 2018 - Aug. 2018
+      company: Deloitte, Shenzhen, China
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          - Utilized Python and Multivariate Linear regression to predict the growth potential of 80 companies with 90% accuracy based on their revenues, number of technology patents, number of intellectual property rights etc.
+          - Visualized each company’s growth using STATA and time series analysis, successfully assigned scores based on each company’s predicted growth potential, and created dashboards to visualize findings and report insights
+          - Organized the Deloitte Shenzhen Technology competition; my presentation received high praises from stakeholders
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# projects:
+#     title: PROJECT EXPERIENCE
+# #     intro: >
+# #       You can list your side projects or open source libraries in this
+# #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+# #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: UC Berkeley Food Pantry Database Design | Data Analytics
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: UC Berkeley Food Pantry Database Design | Data Analytics
+        link: "https://rb.gy/beb71z"
+        authors: Aug. 2019 - Dec. 2019 | Berkeley, CA
+        conference: |
+            - Designed a database utilizing MS Access for a nonprofit student-run organization aiming at providing emergency food relief to help students and staff in the Bay Area
+            - Developed a relational database to help tracking and managing food inventory and restocking, turned all paper-based data to digital easy-tracked data, and improved the number of donors and food availability by 40%
+            - Utilized SQL, Python and STATA, and methodologies including Decision Tree, Gaussian Mixture Model to measure and visualize the effectiveness of operations and allocation of resources
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: SKILLS
 
     toolset:
       - name: Python & Django
