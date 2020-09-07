@@ -36,12 +36,13 @@
 
       <div class="upper-row">
         <h3 class="degree">{{ graduation.university }}</h3>
-        <div class="time">{{ graduation.time }}<br />{{graduation.gpa}}</div>
+        <div class="time">{{ graduation.time }}</div>
       </div>
       <!--//upper-row-->
       {% for degree in graduation.degrees %}
       <div class="university">{{ degree }}</div>
       {% endfor %}
+      <div class="university">{{ graduation.gpa }}</div>
     </div>
     <!--//meta-->
 
