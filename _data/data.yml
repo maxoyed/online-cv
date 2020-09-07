@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: weixi@berkeley.edu
     phone: (510) 409-7286
-    website: blog.webjeda.com #do not add http://
+    website: #do not add http://
     linkedin:
     github:
     telegram:
@@ -117,7 +117,7 @@ experiences:
 #         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
-    title: Publications
+    title: PROJECT EXPERIENCE
 #     intro: |
 #       You can list your publications in this section. Lorem ipsum dolor sit
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
