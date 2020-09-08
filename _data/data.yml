@@ -87,7 +87,8 @@ education:
 experiences:
   - role: Data Analyst
     time: Mar. 2020 – Sep. 2020
-    company: Oigetit Fake News Filter, Sunnyvale, CA
+    company: Oigetit Fake News Filter
+    location: Sunnyvale, CA
     details: |
       - Spearheaded the creation of new filtering features, implemented features in website backend and used Cross-Validation to test the Fake News filter system with 95% accuracy
       - Utilized data analytics tools including SQL and Tableau to analyze and track performance of different social media platforms, improved total impressions and number of users by more than 30% over 3 months
@@ -95,7 +96,8 @@ experiences:
 
   - role: Data Analyst
     time: Dec. 2019 - Jan. 2020
-    company: Zhongtai International Asset Management Limited, Hong Kong, China
+    company: Zhongtai International Asset Management Limited
+    location: Hong Kong, China
     details: |
       - Established an automated model to retrieve investment opportunities data using R ggplot2 package, performed an EDA, cleaned and imputed data using PCA; calculated and assigned a “big_growth” variable to 20 portfolio companies
       - Performed classification using Naive Bayes, SVM, and Neural Network on “big_growth” companies, testing model performance by Cross-Validation and the best model achieved 0.95 (I am not sure) f1-score.
@@ -103,7 +105,8 @@ experiences:
 
   - role: Audit Intern
     time: Jun. 2018 - Aug. 2018
-    company: Deloitte, Shenzhen, China
+    company: Deloitte
+    location: Shenzhen, China
     details: |
       - Utilized Python and Multivariate Linear regression to predict the growth potential of 80 companies with 90% accuracy based on their revenues, number of technology patents, number of intellectual property rights etc.
       - Visualized each company’s growth using STATA and time series analysis, successfully assigned scores based on each company’s predicted growth potential, and created dashboards to visualize findings and report insights
