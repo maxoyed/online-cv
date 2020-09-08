@@ -112,31 +112,31 @@ experiences:
       - Visualized each company’s growth using STATA and time series analysis, successfully assigned scores based on each company’s predicted growth potential, and created dashboards to visualize findings and report insights
       - Organized the Deloitte Shenzhen Technology competition; my presentation received high praises from stakeholders
 
-# projects:
-#     title: PROJECT EXPERIENCE
-# #     intro: >
-# #       You can list your side projects or open source libraries in this
-# #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-# #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: UC Berkeley Food Pantry Database Design | Data Analytics
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-publications:
+projects:
   title: PROJECT EXPERIENCE
-  #     intro: |
-  #       You can list your publications in this section. Lorem ipsum dolor sit
-  #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-  #       bibendum fringilla a eu lectus.
-  papers:
+  intro: >
+    You can list your side projects or open source libraries in this
+    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
     - title: UC Berkeley Food Pantry Database Design | Data Analytics
-      link: "https://rb.gy/beb71z"
-      authors: Aug. 2019 - Dec. 2019 | Berkeley, CA
-      conference: |
-        - Designed a database utilizing MS Access for a nonprofit student-run organization aiming at providing emergency food relief to help students and staff in the Bay Area
-        - Developed a relational database to help tracking and managing food inventory and restocking, turned all paper-based data to digital easy-tracked data, and improved the number of donors and food availability by 40%
-        - Utilized SQL, Python and STATA, and methodologies including Decision Tree, Gaussian Mixture Model to measure and visualize the effectiveness of operations and allocation of resources
+      link: "#hook"
+      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+# publications:
+#   title: PROJECT EXPERIENCE
+#   #     intro: |
+#   #       You can list your publications in this section. Lorem ipsum dolor sit
+#   #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#   #       bibendum fringilla a eu lectus.
+#   papers:
+#     - title: UC Berkeley Food Pantry Database Design | Data Analytics
+#       link: "https://rb.gy/beb71z"
+#       authors: Aug. 2019 - Dec. 2019 | Berkeley, CA
+#       conference: |
+#         - Designed a database utilizing MS Access for a nonprofit student-run organization aiming at providing emergency food relief to help students and staff in the Bay Area
+#         - Developed a relational database to help tracking and managing food inventory and restocking, turned all paper-based data to digital easy-tracked data, and improved the number of donors and food availability by 40%
+#         - Utilized SQL, Python and STATA, and methodologies including Decision Tree, Gaussian Mixture Model to measure and visualize the effectiveness of operations and allocation of resources
 
 # skills:
 #     title: SKILLS
