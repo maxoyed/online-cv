@@ -118,27 +118,12 @@ projects:
         - Developed a relational database to help tracking and managing food inventory and restocking, turned all paper-based data to digital easy-tracked data, and improved the number of donors and food availability by 40%
         - Utilized SQL, Python and STATA, and methodologies including Decision Tree, Gaussian Mixture Model to measure and visualize the effectiveness of operations and allocation of resources
 
-# skills:
-#     title: SKILLS
+skills:
+  title: SKILLS
 
-#     toolset:
-#       - name: Python & Django
-#         level: 98%
-
-#       - name: Javascript & jQuery
-#         level: 98%
-
-#       - name: Angular
-#         level: 98%
-
-#       - name: HTML5 & CSS
-#         level: 95%
-
-#       - name: Ruby on Rails
-#         level: 85%
-
-#       - name: Sketch & Photoshop
-#         level: 60%
+  details: |
+    - ***Methodologies***: Principal Component Analysis, Linear and Logistic Regression, Decision Tree, Random Forest, K-means Clustering, Time Series Analysis, Multivariate Analysis, A/B Testing, Cross-Validation, Neural Network, SVM, Multinomial Classification, Gradient Descent, Gaussian Mixture Model, Kernel Density Estimation, Deep Learning
+    - ***Programming***: Python (scikit-learn, pandas, pyplot, seaborn), R(ggplot2), SQL, Matlab, Java, HTML (XML, DOM, XPath, BeautifulSoup), STATA Software: MS Access, Tableau, MS Excel, Spark, Google Analytics
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="https://maxoyed.com" target="_blank" rel="nofollow">maxoyed</a>
