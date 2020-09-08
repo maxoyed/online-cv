@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: Wish He
   tagline: 6301 Shellmound Street, Emeryville
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: weixi@berkeley.edu
