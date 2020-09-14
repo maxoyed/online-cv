@@ -123,18 +123,18 @@ projects:
       location: Berkeley, CA
       time:  
       details: |
-        - Lead: Cheng Ren (Doctor at UC Berkeley)
-        - Director Professor: Sonia Katyal
-        - Target: Companies are frequently found registering new trademarks or modifying existing trademarks as part of their rebranding efforts. Several reasons such as the change of company management teams may explain why rebranding decisions are made. No empirical research has focused on understanding the rebranding activities of companies. This project aims at resolving this mystery using both the trademark registration data and the business data (from the Securities and Exchange Commission disclosures.)
+        - ***Lead***: Cheng Ren (Doctor at UC Berkeley)
+        - ***Director Professor***: Sonia Katyal
+        - ***Target***: Companies are frequently found registering new trademarks or modifying existing trademarks as part of their rebranding efforts. Several reasons such as the change of company management teams may explain why rebranding decisions are made. No empirical research has focused on understanding the rebranding activities of companies. This project aims at resolving this mystery using both the trademark registration data and the business data (from the Securities and Exchange Commission disclosures.)
 
     - title: AnChain.Ai Blockchain bot detection system
       link: "https://www.anchain.ai"
-      location:  
+      location: AnChain.Ai
       time:  
       details: |
-        - Lead: Victor Fang (CEO of AnChain.Ai)
-        - Director Professor: Ikhlaq Sidhu, Arash Nourian, Ed Henrich
-        - Target: AnChain.AI leverages artificial intelligence (AI) to reveal the prevalence of bot activity within the Blockchain DApp world. To date, this analysis is the largest scale study of bot activity within the DApp ecosystem. Similar to how the Internet at large is suffering from content scraping bots, crypto businesses are inundated with a wide variety of bots which make it difficult to distinguish true business metrics from manipulated ones
+        - ***Lead***: Victor Fang (CEO of AnChain.Ai)
+        - ***Director Professor***: Ikhlaq Sidhu, Arash Nourian, Ed Henrich
+        - ***Target***: AnChain.AI leverages artificial intelligence (AI) to reveal the prevalence of bot activity within the Blockchain DApp world. To date, this analysis is the largest scale study of bot activity within the DApp ecosystem. Similar to how the Internet at large is suffering from content scraping bots, crypto businesses are inundated with a wide variety of bots which make it difficult to distinguish true business metrics from manipulated ones
 
 
 skills:
