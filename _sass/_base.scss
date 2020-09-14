@@ -210,6 +210,12 @@ p {
     // margin-bottom: 10px;
     color: $text-grey;
   }
+  .images {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
 
   .project-title {
     font-size: 16px;
