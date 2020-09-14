@@ -36,6 +36,14 @@
     </div>
     <!--//details-->
     {% endif %}
+    {% if project.images %}
+    <div class="images">
+      {%for image in project.images %}
+      <img src="{{ site.baseurl }}/assets/images/{{ image }}" alt="">
+      {% endfor %}
+    </div>
+    <!--//images-->
+    {% endif %}
 
   </div>
   <!--//item-->
