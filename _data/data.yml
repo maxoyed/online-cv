@@ -110,10 +110,12 @@ projects:
   title: PROJECT EXPERIENCE
   items:
     - title: UC Berkeley Food Pantry Database Design | Data Analytics
-      link: "https://rb.gy/beb71z"
+      link: "https://basicneeds.berkeley.edu/our-programs/food-pantry"
       location: Berkeley, CA
       time: Aug. 2019 - Dec. 2019
       details: |
+        - ***Full Report:*** [https://docs.google.com/document/d/1BnjRlyDp2-2Vugc-EPLUSpbLUH-Q2uo81X6CS93lGyc/edit](https://docs.google.com/document/d/1BnjRlyDp2-2Vugc-EPLUSpbLUH-Q2uo81X6CS93lGyc/edit)
+        - ***Director Professor:*** Ken Goldberg
         - Designed a database utilizing MS Access for a nonprofit student-run organization aiming at providing emergency food relief to help students and staff in the Bay Area
         - Developed a relational database to help tracking and managing food inventory and restocking, turned all paper-based data to digital easy-tracked data, and improved the number of donors and food availability by 40%
         - Utilized SQL, Python and STATA, and methodologies including Decision Tree, Gaussian Mixture Model to measure and visualize the effectiveness of operations and allocation of resources
@@ -123,26 +125,26 @@ projects:
       location: Berkeley, CA
       time:  
       details: |
-        - ***Lead***: Cheng Ren (Doctor at UC Berkeley)
-        - ***Director Professor***: Sonia Katyal
-        - ***Target***: Companies are frequently found registering new trademarks or modifying existing trademarks as part of their rebranding efforts. Several reasons such as the change of company management teams may explain why rebranding decisions are made. No empirical research has focused on understanding the rebranding activities of companies. This project aims at resolving this mystery using both the trademark registration data and the business data (from the Securities and Exchange Commission disclosures.)
+        - ***Lead:*** Cheng Ren (Doctor at UC Berkeley)
+        - ***Director Professor:*** Sonia Katyal
+        - ***Target:*** Companies are frequently found registering new trademarks or modifying existing trademarks as part of their rebranding efforts. Several reasons such as the change of company management teams may explain why rebranding decisions are made. No empirical research has focused on understanding the rebranding activities of companies. This project aims at resolving this mystery using both the trademark registration data and the business data (from the Securities and Exchange Commission disclosures.)
 
     - title: AnChain.Ai Blockchain bot detection system
       link: "https://www.anchain.ai"
       location: AnChain.Ai
       time:  
       details: |
-        - ***Lead***: Victor Fang (CEO of AnChain.Ai)
-        - ***Director Professor***: Ikhlaq Sidhu, Arash Nourian, Ed Henrich
-        - ***Target***: AnChain.AI leverages artificial intelligence (AI) to reveal the prevalence of bot activity within the Blockchain DApp world. To date, this analysis is the largest scale study of bot activity within the DApp ecosystem. Similar to how the Internet at large is suffering from content scraping bots, crypto businesses are inundated with a wide variety of bots which make it difficult to distinguish true business metrics from manipulated ones
+        - ***Lead:*** Victor Fang (CEO of AnChain.Ai)
+        - ***Director Professor:*** Ikhlaq Sidhu, Arash Nourian, Ed Henrich
+        - ***Target:*** AnChain.AI leverages artificial intelligence (AI) to reveal the prevalence of bot activity within the Blockchain DApp world. To date, this analysis is the largest scale study of bot activity within the DApp ecosystem. Similar to how the Internet at large is suffering from content scraping bots, crypto businesses are inundated with a wide variety of bots which make it difficult to distinguish true business metrics from manipulated ones
 
 
 skills:
   title: SKILLS
 
   details: |
-    - ***Methodologies***: Principal Component Analysis, Linear and Logistic Regression, Decision Tree, Random Forest, K-means Clustering, Time Series Analysis, Multivariate Analysis, A/B Testing, Cross-Validation, Neural Network, SVM, Multinomial Classification, Gradient Descent, Gaussian Mixture Model, Kernel Density Estimation, Deep Learning
-    - ***Programming***: Python (scikit-learn, pandas, pyplot, seaborn), R(ggplot2), SQL, Matlab, Java, HTML (XML, DOM, XPath, BeautifulSoup), STATA Software: MS Access, Tableau, MS Excel, Spark, Google Analytics
+    - ***Methodologies:*** Principal Component Analysis, Linear and Logistic Regression, Decision Tree, Random Forest, K-means Clustering, Time Series Analysis, Multivariate Analysis, A/B Testing, Cross-Validation, Neural Network, SVM, Multinomial Classification, Gradient Descent, Gaussian Mixture Model, Kernel Density Estimation, Deep Learning
+    - ***Programming:*** Python (scikit-learn, pandas, pyplot, seaborn), R(ggplot2), SQL, Matlab, Java, HTML (XML, DOM, XPath, BeautifulSoup), STATA Software: MS Access, Tableau, MS Excel, Spark, Google Analytics
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="https://maxoyed.com" target="_blank" rel="nofollow">maxoyed</a>
